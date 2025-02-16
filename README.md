@@ -11,15 +11,21 @@
 
 <!-- ## Contributions -->
 
-![self-hosted GitHub stats](https://github-readme-stats-alpha-ten-69.vercel.app/api?username=ytakee&count_private=true&theme=transparent)
+
 
 ![darksnake](https://raw.githubusercontent.com/ytakee/ytakee/output/contribution-snake/github-contribution-grid-snake-dark.svg)
 
 <!-- ## Stats -->
 
+![self-hosted GitHub stats](https://github-readme-stats-alpha-ten-69.vercel.app/api?username=ytakee&count_private=true&theme=transparent)
+
+
+[![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!-- ## Trophy -->
 
