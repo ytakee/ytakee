@@ -11,7 +11,7 @@
 
 ## Contributions
 
-![self-hosted GitHub stats](https://github-readme-stats-hq169ljs3-ytakees-projects.vercel.app/api?username=ytakee&count_private=true)
+![self-hosted GitHub stats](https://github-readme-stats-alpha-ten-69.vercel.app/api?username=ytakee&count_private=true)
 
 ![darksnake](https://raw.githubusercontent.com/ytakee/ytakee/output/contribution-snake/github-contribution-grid-snake-dark.svg)
 
