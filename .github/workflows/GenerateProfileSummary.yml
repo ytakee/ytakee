@@ -24,6 +24,6 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "output"
-          UTC_OFFSET: 8
+          UTC_OFFSET: 9
           EXCLUDE: ""
           AUTO_PUSH: true
