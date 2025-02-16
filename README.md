@@ -9,23 +9,25 @@
   </a>
 </p>
 
-## Contributions
+<!-- ## Contributions -->
 
 ![self-hosted GitHub stats](https://github-readme-stats-alpha-ten-69.vercel.app/api?username=ytakee&count_private=true&theme=transparent)
 
 ![darksnake](https://raw.githubusercontent.com/ytakee/ytakee/output/contribution-snake/github-contribution-grid-snake-dark.svg)
 
-## Stats
+<!-- ## Stats -->
 
 [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ytakee/ytakee/output/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Trophy
+<!-- ## Trophy -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ytakee&theme=gruvbox)
 
-## Languages & Frameworks
+<!-- ## Languages & Frameworks -->
+
+<br><br>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -46,7 +48,7 @@
   </a>
 </p>
 
-## Infrastructure
+<!-- ## Infrastructure -->
 
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -58,7 +60,7 @@
 
 </p>
 
-## Version Control
+<!-- ## Version Control -->
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -66,7 +68,7 @@
   </a>
 </p>
 
-## Cloud
+<!-- ## Cloud -->
 
 <p align="center">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
