@@ -11,7 +11,7 @@
 
 ## Contributions
 
-![self-hosted GitHub stats](https://github-readme-stats-alpha-ten-69.vercel.app/api?username=ytakee&count_private=true)
+![self-hosted GitHub stats](https://github-readme-stats-alpha-ten-69.vercel.app/api?username=ytakee&count_private=true&theme=transparent)
 
 ![darksnake](https://raw.githubusercontent.com/ytakee/ytakee/output/contribution-snake/github-contribution-grid-snake-dark.svg)
 
@@ -33,6 +33,10 @@
   </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+         alt="HTML5" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
