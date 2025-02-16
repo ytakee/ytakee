@@ -1,6 +1,5 @@
 
-
-<p align="left" style="display:none;">
+<p align="left">
   <a href="https://github.com/ytakee">
     <img height="20" src="https://komarev.com/ghpvc/?username=ytakee" />
   </a>
